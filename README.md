@@ -5,4 +5,5 @@
 - Used complex parameters to drill down in worksheet and customization using filter and slicer.
 - Created connections, join new tables, calculation to manipulate data, and enable user-driven parameters for visualization.
 
-![madhav e comers salse dasbord resume line](https://github.com/MohnalManwatkar/Madhav_Store_Analysis_PowerBI/assets/108139334/41ef0314-1622-4adb-ba34-401143f9dea4)
+
+![MADHAV E-COMMERCE SALES DASHBOARD](https://github.com/MohnalManwatkar/Madhav_Store_Analysis_PowerBI/assets/108139334/d03670df-1f8d-4e6f-ae39-42aa1590089a)
